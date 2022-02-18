@@ -1,2 +1,2 @@
 # git_test
-First Odin GitHub Repositiry
+First Odin GitHub Repository
